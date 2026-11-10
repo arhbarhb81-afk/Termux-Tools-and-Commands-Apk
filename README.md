@@ -108,4 +108,4 @@ Your support helps more people learn Termux easily.
 
 Made with ❤️ by Achik Ahmed
 
-</div>
+</div>nano +25 myfile.txt

@@ -48,8 +48,8 @@ Here are the main details about the application:
 - **App Name:** Termux Tools & Commands  
 - **Version:** 2.1 
 - **File Size:** 12 MB  
-- **Android Required:** Android 7.0 or higher  
-- **Root Access Needed:** No  
+- **Android Required:** Android 1.7 or higher  
+- **Root Offline:** Yes
 - **Works Offline:** Yes  
 - **Developer:** Achik Ahmed  
 
@@ -89,23 +89,16 @@ The current version V2.1 includes improved search performance, new commands, sma
 
 If you have ideas, suggestions, or find any mistakes, you are welcome to share them. You can open an issue or submit a pull request on GitHub. Community support helps this project grow and become better.
 
-## Need Help?
+## Need aOffline:** Yes
 
 If you face any problem or have questions, you can contact me at:
-
-achikahmed.info@gmail.com  
-
-I try to respond quickly and fix issues as soon as possible.
+  
+I try to respond quickly and fix issues        as soon as possible.
 
 <div align="center">
 
 ## ⭐ Support This Project
 
 If you find this project helpful, consider starring the repository and sharing it with others.  
-Your support helps more people learn Termux easily.
-
-<br>
-
-Made with ❤️ by Achik Ahmed
-
-</div>nano +25 myfile.txt
+Your support helps more people learn Termux easily+
+<How This App Helps You">
